@@ -1,0 +1,28 @@
+{
+  "name": "vtm5-dice-roller",
+  "version": "1.0.0",
+  "description": "Discord dice roller for Vampire the Masquerade 5th Edition role playing games.",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheDiceFather/VTM5-Discord-Dice-Roller"
+  },
+  "dependencies": {
+    "discord.js": "^11.4.0",
+    "firebase": "^5.5.8",
+    "lodash": "^4.17.11",
+    "seedrandom": "^2.4.3"
+  },
+  "scripts": {
+    "start": "node start.js"
+  },
+  "keywords": [
+    "dice",
+    "roller",
+    "discord",
+    "bot",
+    "vtm5"
+  ],
+  "author": "The DiceFather, for custom bots please email me at roleaholic@mail.com.",
+  "license": "ISC"
+}
